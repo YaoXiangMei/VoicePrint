@@ -77,7 +77,7 @@ class SpeechToTextConverter:
             raise RuntimeError(f"语音转写过程中发生错误: {str(e)}")
 
 
-def convert_speech_to_text(audio_path: str, model_size: str = "medium", **kwargs) -> Dict:
+def convert_speech_to_text(audio_path: str, model_size: str = "large", **kwargs) -> Dict:
     """
     便捷函数：将语音转换为文字
     

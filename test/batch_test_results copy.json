@@ -1,0 +1,1744 @@
+[
+  {
+    "file_name": "1747290645128.wav",
+    "transcription": "一家庭主婦在沉思池的水溢出來竟然沒感覺到還看到孩子們搭著板凳在找零食餅乾吃",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "一家庭主婦在沉思池的水溢出來竟然沒感覺到還看到孩子們搭著板凳在找零食餅乾吃",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 4
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 37
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 9.2
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.46
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 13.7
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 10.7
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.58
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 12.7
+        }
+      }
+    },
+    "similarity": 0.7052096128463745,
+    "success": true
+  },
+  {
+    "file_name": "1747293692382.wav",
+    "transcription": "两个小孩在投饼干,然后男孩在凳子上面,那个凳子有点摔,有点倾倒的趋势。然后妈妈在洗碗,眼睛望看外面,望了管水楼头,水都溢出来了,一到脚面了,桌面上还摆着两个杯子,一个碟子,窗外面的话是花园,有一只小狗趴在那里。",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "两个小孩在投饼干,然后男孩在凳子上面,那个凳子有点摔,有点倾倒的趋势。然后妈妈在洗碗,眼睛望看外面,望了管水楼头,水都溢出来了,一到脚面了,桌面上还摆着两个杯子,一个碟子,窗外面的话是花园,有一只小狗趴在那里。",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 60
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 72.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 2
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 105
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 52.5
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.98
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 27.42
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 26.4
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.28
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 1.02
+        }
+      }
+    },
+    "similarity": 0.7952391505241394,
+    "success": true
+  },
+  {
+    "file_name": "1747295190766.wav",
+    "transcription": "再點可以嗯,這個首先我拿出來包裝我倒在這裡,看不到,看不到吃飽了,吃飽了好嗎,好嗎",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "再點可以嗯,這個首先我拿出來包裝我倒在這裡,看不到,看不到吃飽了,吃飽了好嗎,好嗎",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 40
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 62.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 5
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 41
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 8.2
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.78
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 12.86
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 10.84
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.5
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 15.71
+        }
+      }
+    },
+    "similarity": 0.6142749190330505,
+    "success": true
+  },
+  {
+    "file_name": "1747295371182.wav",
+    "transcription": "我看見一個小男孩站在椅子上差點要往下倒有看到櫥櫃上面門打開有一個餅乾盒旁邊還有一個小女孩然後有一個女人站在那裡插旁紙",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "我看見一個小男孩站在椅子上差點要往下倒有看到櫥櫃上面門打開有一個餅乾盒旁邊還有一個小女孩然後有一個女人站在那裡插旁紙",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 5
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 58
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 11.6
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.48
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 17.88
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 16.68
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.3
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 6.71
+        }
+      }
+    },
+    "similarity": 0.7646276950836182,
+    "success": true
+  },
+  {
+    "file_name": "1747295638103.wav",
+    "transcription": "看到兩個小孩爬上椅子去拿餅乾盒就被這個男孩差不多死了女子人在洗碗 結果忘記關水行頭水流出來了他應該在外國的因為他的建築風格很明顯不是中國的還有一些大概是這樣",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "看到兩個小孩爬上椅子去拿餅乾盒就被這個男孩差不多死了女子人在洗碗 結果忘記關水行頭水流出來了他應該在外國的因為他的建築風格很明顯不是中國的還有一些大概是這樣",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 7
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 77
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 11.0
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.24
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 25.46
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 23.74
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.16
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 3.77
+        }
+      }
+    },
+    "similarity": 0.7793614268302917,
+    "success": true
+  },
+  {
+    "file_name": "1747297298900.wav",
+    "transcription": "这个画面是厨房的场景里面有一个妈妈和两个孩子妈妈站在水之边上擦碗神情悲伤水都流出了但是她也没有注意到她的背后是两个孩子一个男孩和女孩男孩站在凳子上想要拿厨柜里面的饼干但是凳子快要倒了他能看得到的就会摔倒所以这是一个比较悲伤的场景",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "这个画面是厨房的场景里面有一个妈妈和两个孩子妈妈站在水之边上擦碗神情悲伤水都流出了但是她也没有注意到她的背后是两个孩子一个男孩和女孩男孩站在凳子上想要拿厨柜里面的饼干但是凳子快要倒了他能看得到的就会摔倒所以这是一个比较悲伤的场景",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 40
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 62.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 13
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 114
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 8.8
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 2.51
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 53.02
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 45.44
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.44
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 10.03
+        }
+      }
+    },
+    "similarity": 0.8719990849494934,
+    "success": true
+  },
+  {
+    "file_name": "1747300354549.wav",
+    "transcription": "有個小男孩在拿冰塊有個女孩在拿冰塊有個媽媽在洗碗洗碗頭 開水",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "有個小男孩在拿冰塊有個女孩在拿冰塊有個媽媽在洗碗洗碗頭 開水",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 40
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 62.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 4
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 29
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 7.2
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 2.1
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 16.54
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 13.78
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.31
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 5.68
+        }
+      }
+    },
+    "similarity": 0.6452297568321228,
+    "success": true
+  },
+  {
+    "file_name": "1747300412943.wav",
+    "transcription": "媽媽在洗碗的時候 把水都流下來 都沒有發現哥哥拿餅乾盒 差點跌倒了",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "媽媽在洗碗的時候 把水都流下來 都沒有發現哥哥拿餅乾盒 差點跌倒了",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 2
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 30
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 15.0
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.42
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 9.9
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 8.76
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.0
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 0.0
+        }
+      }
+    },
+    "similarity": 0.7972888946533203,
+    "success": true
+  },
+  {
+    "file_name": "1747300444295.wav",
+    "transcription": "小男孩站在凳子上去拿饼干盒,但是凳子快倒了。妈妈在厨房洗碗,水潮的水已经溢出来了,但是妈妈没有发现。",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "小男孩站在凳子上去拿饼干盒,但是凳子快倒了。妈妈在厨房洗碗,水潮的水已经溢出来了,但是妈妈没有发现。",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 60
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 70.0
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 2
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 50
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 25.0
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 4.55
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 14.1
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 11.0
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.88
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 6.24
+        }
+      }
+    },
+    "similarity": 0.8862296938896179,
+    "success": true
+  },
+  {
+    "file_name": "1747300495604.wav",
+    "transcription": "小男孩和小女孩在厨房里拿了个蛋糕小男孩站在凳子上面凳子凳子快倒了小女孩也没有发现妈妈站在水盆前洗碗水已经满出水盆了妈妈也没有发现",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "小男孩和小女孩在厨房里拿了个蛋糕小男孩站在凳子上面凳子凳子快倒了小女孩也没有发现妈妈站在水盆前洗碗水已经满出水盆了妈妈也没有发现",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 7
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 64
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 9.1
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 4.06
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 23.32
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 15.78
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.36
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 9.26
+        }
+      }
+    },
+    "similarity": 0.841353178024292,
+    "success": true
+  },
+  {
+    "file_name": "1747311769926.wav",
+    "transcription": "我看到的這個畫面是在廚房裡面有一個媽媽和兩個孩子媽媽站在水池邊上神經沮喪的在擦碗水池裡面的水都流出來了她也沒有注意後面是兩個孩子其中男孩站在凳子上要拿餅乾盒裡面的餅乾但是這個凳子馬上就要倒了所以這是很危險整個畫面是一個很悲傷沮喪的畫面",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "我看到的這個畫面是在廚房裡面有一個媽媽和兩個孩子媽媽站在水池邊上神經沮喪的在擦碗水池裡面的水都流出來了她也沒有注意後面是兩個孩子其中男孩站在凳子上要拿餅乾盒裡面的餅乾但是這個凳子馬上就要倒了所以這是很危險整個畫面是一個很悲傷沮喪的畫面",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 12
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 117
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 9.8
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 2.9
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 42.58
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 40.3
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.09
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 2.21
+        }
+      }
+    },
+    "similarity": 0.8306976556777954,
+    "success": true
+  },
+  {
+    "file_name": "1747322059874.wav",
+    "transcription": "我看見一個小男孩在上面踩著凳子,差點往下掉櫥櫃上面有一個餅乾和旁邊有一個小女孩然後洗手台那裡有一個女人在那裡擦碟子",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "我看見一個小男孩在上面踩著凳子,差點往下掉櫥櫃上面有一個餅乾和旁邊有一個小女孩然後洗手台那裡有一個女人在那裡擦碟子",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 3
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 57
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 19.0
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.51
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 16.94
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 16.26
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.34
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 4.01
+        }
+      }
+    },
+    "similarity": 0.8247792720794678,
+    "success": true
+  },
+  {
+    "file_name": "1747364015347.wav",
+    "transcription": "這是在房間的一個廚房的一個場景一位媽媽正在洗碗然後水龍頭的水都流出來了一個小男孩正踩在凳子上在櫃子裡拿餅乾並且把餅乾拿給了一個小女孩",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "這是在房間的一個廚房的一個場景一位媽媽正在洗碗然後水龍頭的水都流出來了一個小男孩正踩在凳子上在櫃子裡拿餅乾並且把餅乾拿給了一個小女孩",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 6
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 66
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 11.0
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.38
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 22.4
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 19.54
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.12
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 2.77
+        }
+      }
+    },
+    "similarity": 0.8562825918197632,
+    "success": true
+  },
+  {
+    "file_name": "1747364183047.wav",
+    "transcription": "提交好开始色评三个两两驴一男除味然后呢把那块摔跤了饼干和水漏出来了我看一下视频啊",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "提交好开始色评三个两两驴一男除味然后呢把那块摔跤了饼干和水漏出来了我看一下视频啊",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 20
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 52.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 9
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 40
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 4.4
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.32
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 15.48
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 12.06
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.43
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 22.09
+        }
+      }
+    },
+    "similarity": 0.6325661540031433,
+    "success": true
+  },
+  {
+    "file_name": "1747364218377.wav",
+    "transcription": "我看到这个画面是在厨房里面有妈妈和两个孩子妈妈在神情悲伤的擦碗水池里面的水流出来她也没有留意后面有两个孩子要去饼干河小男孩要摔倒了这是一个令人悲伤的画面",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "我看到这个画面是在厨房里面有妈妈和两个孩子妈妈在神情悲伤的擦碗水池里面的水流出来她也没有留意后面有两个孩子要去饼干河小男孩要摔倒了这是一个令人悲伤的画面",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 8
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 76
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 9.5
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 4.41
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 17.94
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 17.22
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.0
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 0.0
+        }
+      }
+    },
+    "similarity": 0.808609664440155,
+    "success": true
+  },
+  {
+    "file_name": "1747364780840.wav",
+    "transcription": "有個媽媽在洗碗,水流浮滿了,整個地上都水了有個哥哥爬著梯子拿餅乾餅乾盒裡面有餅乾,餅乾在櫃子裡原來應該是妹妹沒扶好,哥哥快要跌下來",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "有個媽媽在洗碗,水流浮滿了,整個地上都水了有個哥哥爬著梯子拿餅乾餅乾盒裡面有餅乾,餅乾在櫃子裡原來應該是妹妹沒扶好,哥哥快要跌下來",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 4
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 65
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 16.2
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.64
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 19.78
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 17.86
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.0
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 0.0
+        }
+      }
+    },
+    "similarity": 0.7969982028007507,
+    "success": true
+  },
+  {
+    "file_name": "1747618857178.wav",
+    "transcription": "一個小朋友拿著餅乾將餅乾掉到一個媽媽的碗上在抹碗",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "一個小朋友拿著餅乾將餅乾掉到一個媽媽的碗上在抹碗",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 40
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 62.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 3
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 24
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 8.0
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 2.88
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 11.14
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 8.34
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.47
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 8.44
+        }
+      }
+    },
+    "similarity": 0.7206947207450867,
+    "success": true
+  },
+  {
+    "file_name": "1747621780751.wav",
+    "transcription": "老闆說這個椅子不穩 切都上這個東西 洗手洗手 水就越來越多了",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "老闆說這個椅子不穩 切都上這個東西 洗手洗手 水就越來越多了",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 2
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 27
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 13.5
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 2.72
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 12.14
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 9.94
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.0
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 0.0
+        }
+      }
+    },
+    "similarity": 0.5717759132385254,
+    "success": true
+  },
+  {
+    "file_name": "1747622902447.wav",
+    "transcription": "我的眼睛不是很痛看到什麼 你說什麼爬上去拿東西拿餅乾吃這裡來洗東西洗碟那兩女孩在這裡嗯那之後呢 看到什麼做沒有了 兩個人在這裡這裡洗東西在水龍頭拿東西吃拿餅乾那張釘差點掉下去這個 老人家的這個拿走 張釘掉了",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "我的眼睛不是很痛看到什麼 你說什麼爬上去拿東西拿餅乾吃這裡來洗東西洗碟那兩女孩在這裡嗯那之後呢 看到什麼做沒有了 兩個人在這裡這裡洗東西在水龍頭拿東西吃拿餅乾那張釘差點掉下去這個 老人家的這個拿走 張釘掉了",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 40
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 62.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 16
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 98
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 6.1
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.29
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 33.48
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 29.8
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.25
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 10.99
+        }
+      }
+    },
+    "similarity": 0.7002124786376953,
+    "success": true
+  },
+  {
+    "file_name": "1747624757348.wav",
+    "transcription": "看到三個人,一個在洗碗,兩個在拿餅乾,拿餅乾的這個人踩著凳子,感覺凳子會摔倒,洗碗的水都流出來了。",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "看到三個人,一個在洗碗,兩個在拿餅乾,拿餅乾的這個人踩著凳子,感覺凳子會摔倒,洗碗的水都流出來了。",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 60
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 72.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 1
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 49
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 49.0
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 4.82
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 10.84
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 10.16
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 0.0
+        }
+      }
+    },
+    "similarity": 0.7264605760574341,
+    "success": true
+  },
+  {
+    "file_name": "1747624830815.wav",
+    "transcription": "我看到了這個母親在做家務洗盤子然後水溢出來了家裡面有兩個小孩一個男孩一個小一個女孩單個凳子去櫃子裡面拿餅乾差點摔倒了",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "我看到了這個母親在做家務洗盤子然後水溢出來了家裡面有兩個小孩一個男孩一個小一個女孩單個凳子去櫃子裡面拿餅乾差點摔倒了",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 4
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 58
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 14.5
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.39
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 18.22
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 17.12
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.0
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 0.0
+        }
+      }
+    },
+    "similarity": 0.7846859097480774,
+    "success": true
+  },
+  {
+    "file_name": "1747625519861.wav",
+    "transcription": "因為我看他都是說完之後把你撕了往前進吧",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "因為我看他都是說完之後把你撕了往前進吧",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 2
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 19
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 9.5
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 2.84
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 7.72
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 6.68
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.0
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 0.0
+        }
+      }
+    },
+    "similarity": 0.3923420011997223,
+    "success": true
+  },
+  {
+    "file_name": "1747639947659.wav",
+    "transcription": "可以說了,不用說了那個女的在這裡洗碗還有沒有其他?那個小孩在幫那個男的那個爸爸應該是那個爸爸的椅子都要歪了在這裡做什麼呢?你自己看到什麼?我看一下沒有什麼在這裡裝什麼,我不知道",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "可以說了,不用說了那個女的在這裡洗碗還有沒有其他?那個小孩在幫那個男的那個爸爸應該是那個爸爸的椅子都要歪了在這裡做什麼呢?你自己看到什麼?我看一下沒有什麼在這裡裝什麼,我不知道",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 40
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 62.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 11
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 88
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 8.0
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.3
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 32.52
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 26.68
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.37
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 11.32
+        }
+      }
+    },
+    "similarity": 0.6990275382995605,
+    "success": true
+  },
+  {
+    "file_name": "1747639978704.wav",
+    "transcription": "有一位女性在厨房洗盘子窗帘是拉开的然后水流通的水一直开始流到了地下有一个小男孩在拿饼干盒然后要摔倒了有个女孩在旁边站着",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "有一位女性在厨房洗盘子窗帘是拉开的然后水流通的水一直开始流到了地下有一个小男孩在拿饼干盒然后要摔倒了有个女孩在旁边站着",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 60
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 70.0
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 5
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 59
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 11.8
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 2.98
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 24.54
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 19.8
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.79
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 12.8
+        }
+      }
+    },
+    "similarity": 0.8964318633079529,
+    "success": true
+  },
+  {
+    "file_name": "1747640217676.wav",
+    "transcription": "小朋友在擦槍啊 美女在洗碗啊還有什麼啊水倒落地",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "小朋友在擦槍啊 美女在洗碗啊還有什麼啊水倒落地",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 40
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 35
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 37.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "中度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 3
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 22
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 7.3
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 2.53
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 13.8
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 8.68
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 1.35
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 19.57
+        }
+      }
+    },
+    "similarity": 0.6389474272727966,
+    "success": true
+  },
+  {
+    "file_name": "1747640522742.wav",
+    "transcription": "有一個人在洗碗,有兩個小孩在拿一個凳子在拿餅乾吃然後那個凳子斜斜的快要倒下來了洗碗的時候那個水好像滿出了那個洗碗盤",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "有一個人在洗碗,有兩個小孩在拿一個凳子在拿餅乾吃然後那個凳子斜斜的快要倒下來了洗碗的時候那個水好像滿出了那個洗碗盤",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 3
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 57
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 19.0
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.1
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 19.94
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 18.36
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.0
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 0.0
+        }
+      }
+    },
+    "similarity": 0.7731278538703918,
+    "success": true
+  }
+]
