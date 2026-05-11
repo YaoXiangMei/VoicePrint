@@ -220,6 +220,7 @@ class AudioAnalyzer:
             }
         }
 
+
 def analyze_audio(result):
     """
     便捷函数：分析音频连贯性
@@ -239,14 +240,15 @@ if __name__ == "__main__":
     # 示例用法
     try:
         # 方法1: 使用便捷函数
+        import json
         result = json.load(open("1747281149103.json", "r", encoding="utf-8"))
         result = analyze_audio(result)
         print(json.dumps(result, ensure_ascii=False, indent=4))
         
         # # 方法2: 使用类实例
-        analyzer = AudioAnalyzer(result)
-        result = analyzer.analyze()
-        print(json.dumps(result, ensure_ascii=False, indent=4))
+        # analyzer = AudioAnalyzer(result)
+        # result = analyzer.analyze()
+        # print(json.dumps(result, ensure_ascii=False, indent=4))
         
         
     except Exception as e:

@@ -3,9 +3,15 @@
 演示如何使用语音转文字转换器和音频分析器
 """
 import json
-from speech_to_text_converter import convert_speech_to_text
-from audio_analyzer import analyze_audio
-from utils import format_output
+import sys
+import os
+
+# 添加src目录到Python路径
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
+
+from speech_processing.speech_to_text_converter import convert_speech_to_text
+from speech_processing.audio_analyzer import analyze_audio
+from utils.output_formatter import print_analysis_result, format_output
 
 
 def main():
@@ -22,7 +28,7 @@ def main():
         analysis_result = analyze_audio(result)
         
         # 使用格式化输出
-        format_output(analysis_result, "分析结果")
+        print_analysis_result(analysis_result)
         
     except FileNotFoundError:
         print(f"错误: 找不到音频文件 '{audio_file}'")
