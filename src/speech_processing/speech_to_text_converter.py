@@ -1,7 +1,6 @@
 import whisper
 import os
-from typing import Dict, List, Optional
-import warnings
+from typing import Dict
 
 # 全局模型缓存
 _model_cache = {}

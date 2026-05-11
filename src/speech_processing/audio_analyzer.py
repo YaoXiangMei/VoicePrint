@@ -13,7 +13,7 @@ class AudioAnalyzer:
         """
         self.result = result
         self.segments = self.result["segments"]
-        self.full_text = self.result["text"].strip()
+        self.text = self.result["text"].strip()
         self.pause_threshold = 3  # 长停顿时长阈值（秒）
     
     def get_total_audio_duration(self):
@@ -28,7 +28,7 @@ class AudioAnalyzer:
     
     def get_total_chars(self):
         """获取总字数（不包含空格）"""
-        return len(self.full_text.replace(" ", ""))
+        return len(self.text.replace(" ", ""))
     
     def get_pauses(self):
         """计算所有句间停顿"""
@@ -162,6 +162,7 @@ class AudioAnalyzer:
         return {
             "status": 1,
             "msg": "分析成功",
+            "text": self.text,
             "scores": {
                 "fragment_score": {
                     "label": "语句破碎度评分",
