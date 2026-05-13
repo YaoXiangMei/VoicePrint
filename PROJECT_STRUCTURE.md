@@ -3,8 +3,10 @@ voiceprint/
 │   ├── __init__.py
 │   ├── speech_processing/
 │   │   ├── __init__.py
-│   │   ├── speech_to_text_converter.py
-│   │   └── audio_analyzer.py
+│   │   ├── audio_analyzer.py
+│   │   ├── text_to_vec.py
+│   │   └── whisper_wrapper/
+│   │       └── converter.py
 │   ├── utils/
 │   │   ├── __init__.py
 │   │   └── output_formatter.py

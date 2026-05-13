@@ -11,7 +11,7 @@ import numpy as np
 # 添加src目录到Python路径
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../src'))
 
-from speech_processing.speech_to_text_converter import convert_speech_to_text
+from whisper_wrapper.converter import convert_speech_to_text
 from speech_processing.audio_analyzer import analyze_audio
 from speech_processing.text_to_vec import calculate_similarity
 from utils.output_formatter import format_output, print_analysis_result
