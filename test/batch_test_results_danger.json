@@ -1,0 +1,337 @@
+[
+  {
+    "file_name": "1765429199166.wav",
+    "transcription": "小男三小飞家在倒米举房倒完米以后他说爷爷我肚子饿了你拿点饼干给我点点肚子好 小爷爷就马上上在凳子上打开柜子现在拿饼干给小男吃可以了吧",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "小男三小飞家在倒米举房倒完米以后他说爷爷我肚子饿了你拿点饼干给我点点肚子好 小爷爷就马上上在凳子上打开柜子现在拿饼干给小男吃可以了吧",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 40
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 60
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 50.0
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 9
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 65
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 7.2
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 2.53
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 35.56
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 25.72
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.92
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 20.7
+        }
+      }
+    },
+    "similarity": 0.3844176232814789,
+    "success": true
+  },
+  {
+    "file_name": "1768117430395.wav",
+    "transcription": "在楼上看,在楼上爬梯子他说在爬楼梯子他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "在楼上看,在楼上爬梯子他说在爬楼梯子他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 20
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 52.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 58
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 146
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 2.5
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 4.28
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 44.92
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 34.14
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.13
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 17.1
+        }
+      }
+    },
+    "similarity": 0.21919749677181244,
+    "success": true
+  },
+  {
+    "file_name": "1770337232236.wav",
+    "transcription": "这个是什么这个是拿哪个东西这个就这个拿下来你看这个就是什么",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "这个是什么这个是拿哪个东西这个就这个拿下来你看这个就是什么",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 40
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 62.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "轻度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 4
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 29
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 7.2
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 2.61
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 11.64
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 11.1
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.18
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 4.64
+        }
+      }
+    },
+    "similarity": 0.18109329044818878,
+    "success": true
+  },
+  {
+    "file_name": "1771920177240.wav",
+    "transcription": "水池里边的水,就是厨房洗碗的水池里边的水溢出来了小男孩在拿饼干的时候椅子歪倒,快要摔倒了",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "水池里边的水,就是厨房洗碗的水池里边的水溢出来了小男孩在拿饼干的时候椅子歪倒,快要摔倒了",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 3
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 44
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 14.7
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.42
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 14.18
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 12.88
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.0
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 0.0
+        }
+      }
+    },
+    "similarity": 0.6436647176742554,
+    "success": true
+  },
+  {
+    "file_name": "1773449008772.wav",
+    "transcription": "三号车就是什么这个就站在凳子下面拿什么拿饼干这个这个就是这个是什么不知道这个是什么东西这个就是修带起来是吧这这个不知道",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "三号车就是什么这个就站在凳子下面拿什么拿饼干这个这个就是这个是什么不知道这个是什么东西这个就是修带起来是吧这这个不知道",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 40
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 35
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 37.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "中度不连贯"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 10
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 59
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 5.9
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.34
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 27.06
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 17.68
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 1.04
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 1
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 34.66
+        }
+      }
+    },
+    "similarity": 0.28109046816825867,
+    "success": true
+  }
+]

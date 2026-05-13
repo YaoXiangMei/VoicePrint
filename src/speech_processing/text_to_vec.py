@@ -4,20 +4,24 @@
 """
 import os
 import math
+# 1. 先设置环境变量（最最最开头！）
+os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+
+# 2. 再关闭 SSL 验证（解决你这个证书错误）
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
 from text2vec import SentenceModel
 
 
 # 强制使用国内镜像，解决SSL/网络问题
-os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
-
-
 class TextSimilarityCalculator:
     """
     文本相似度计算器
     使用text2vec模型计算文本相似度
     """
     
-    def __init__(self, model_name="shibing624/text2vec-base-chinese", standard_text=None):
+    def __init__(self, model_name="shibing624/text2vec-bge-large-chinese", standard_text=None):
         """
         初始化相似度计算器
         

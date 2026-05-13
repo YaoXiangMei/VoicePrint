@@ -23,7 +23,7 @@ def main():
     
     try:
         # 直接从JSON文件加载结果（用于演示）
-        # result = json.load(open("1747281149103.json", "r", encoding="utf-8"))
+        # result = json.load(open("recording/normal/1747281149103.json", "r", encoding="utf-8"))
         result = convert_speech_to_text(audio_file)
         
         # 分析音频

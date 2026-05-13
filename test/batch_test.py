@@ -9,7 +9,7 @@ from pathlib import Path
 import numpy as np
 
 # 添加src目录到Python路径
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../src'))
 
 from speech_processing.speech_to_text_converter import convert_speech_to_text
 from speech_processing.audio_analyzer import analyze_audio
@@ -41,7 +41,7 @@ def batch_test():
     print("开始批量测试...")
     
     # 获取record目录中的所有音频文件
-    record_dir = Path("test-record/")
+    record_dir = Path("recording/normal/")
     audio_files = list(record_dir.glob("*.wav"))
     
     if not audio_files:
@@ -124,7 +124,7 @@ def batch_test():
             print("-" * 40)
     
     # 保存结果到JSON文件（先转换numpy类型）
-    output_file = "batch_test_results.json"
+    output_file = "test/batch_test_results_normal.json"
     converted_results = convert_numpy_types(results)
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(converted_results, f, ensure_ascii=False, indent=2)

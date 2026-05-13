@@ -62,7 +62,7 @@ class SpeechToTextConverter:
             'temperature': 0.2,
             'condition_on_previous_text': True,
             'fp16': False,
-            # 'initial_prompt': '请使用简体中文输出转写结果'
+            'initial_prompt': '请使用简体中文输出转写结果'
         }
         
         # 更新默认参数
