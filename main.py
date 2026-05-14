@@ -29,11 +29,14 @@ def main():
         # result = json.load(open("recording/normal/1747281149103.json", "r", encoding="utf-8"))
         # result = convert_speech_to_text(audio_file)
         result = funasr_convert_speech_to_text(audio_file)
+        # 保存结果到JSON文件
+        with open("output/output_result_before_convert2.json", "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
         # 转换为whisper格式
         result = funasr_to_whisper_format(result)
         
         # 保存结果到JSON文件
-        with open("output/output_result.json", "w", encoding="utf-8") as f:
+        with open("output/output_result2.json", "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
         print("结果已保存到 output/output_result.json")
         # 分析音频
