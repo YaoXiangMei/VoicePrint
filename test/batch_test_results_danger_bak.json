@@ -1,27 +1,27 @@
 [
   {
     "file_name": "1765429199166.wav",
-    "transcription": "我点了个点了个啥小兰上学回家嗯在稻米煮饭嗯倒完米以后他说爷爷我肚子我肚子饿了你拿点饼干给我垫垫肚子 嗯，行。 好，小爷爷嘞就马上嗯嗯站在凳子上，站在凳子上打开柜子。 嗯，在拿饼干跟小蓝吃。 可以了吧。 我。",
+    "transcription": "小男三小飞家在倒米举房倒完米以后他说爷爷我肚子饿了你拿点饼干给我点点肚子好 小爷爷就马上上在凳子上打开柜子现在拿饼干给小男吃可以了吧",
     "analysis": {
       "status": 1,
       "msg": "分析成功",
-      "text": "我点了个点了个啥小兰上学回家嗯在稻米煮饭嗯倒完米以后他说爷爷我肚子我肚子饿了你拿点饼干给我垫垫肚子 嗯，行。 好，小爷爷嘞就马上嗯嗯站在凳子上，站在凳子上打开柜子。 嗯，在拿饼干跟小蓝吃。 可以了吧。 我。",
+      "text": "小男三小飞家在倒米举房倒完米以后他说爷爷我肚子饿了你拿点饼干给我点点肚子好 小爷爷就马上上在凳子上打开柜子现在拿饼干给小男吃可以了吧",
       "scores": {
         "fragment_score": {
           "label": "语句破碎度评分",
-          "value": 80
+          "value": 40
         },
         "pause_score": {
           "label": "停顿流畅度评分",
-          "value": 15
+          "value": 60
         },
         "total_coherence_score": {
           "label": "综合语言连贯总分",
-          "value": 47.5
+          "value": 50.0
         },
         "level": {
           "label": "连贯等级",
-          "value": "中度不连贯"
+          "value": "轻度不连贯"
         }
       },
       "metrics": {
@@ -31,115 +31,48 @@
         },
         "total_chars": {
           "label": "总字数",
-          "value": 98
+          "value": 65
         },
         "avg_sentence_chars": {
           "label": "平均每句字数",
-          "value": 9.9
+          "value": 7.2
         },
         "speed_chars_per_sec": {
           "label": "语速(字/秒)",
-          "value": 5.88
+          "value": 2.53
         },
         "total_audio_duration": {
           "label": "音频总时长(秒)",
-          "value": 36.33
+          "value": 35.56
         },
         "speak_duration": {
           "label": "有效说话时长(秒)",
-          "value": 16.66
+          "value": 25.72
         },
         "avg_pause": {
           "label": "平均句间停顿(秒)",
-          "value": 2.45
+          "value": 0.92
         },
         "long_pause_count": {
           "label": "长停顿次数(≥3s)",
-          "value": 2
+          "value": 0
         },
         "pause_ratio": {
           "label": "停顿占总时长比例(%)",
-          "value": 54.03
+          "value": 20.7
         }
       }
     },
-    "similarity": 0.33051156997680664,
+    "similarity": 0.3844176232814789,
     "success": true
   },
   {
     "file_name": "1768117430395.wav",
-    "transcription": "在那边看，那都在都在那个高头爬梯儿了。 爬梯子他说在爬楼梯。嗯梯子嗯是吧。他说你他说你听得懂吗。你看也不太能说就好。 系啊，咁啊，唔得嘅，但系佢可能都。 这个不是在吸盘。 是吧，这个再把它招募哈。 还有别的要说的吗？ 把你的水还打不着了。",
+    "transcription": "在楼上看,在楼上爬梯子他说在爬楼梯子他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?",
     "analysis": {
       "status": 1,
       "msg": "分析成功",
-      "text": "在那边看，那都在都在那个高头爬梯儿了。 爬梯子他说在爬楼梯。嗯梯子嗯是吧。他说你他说你听得懂吗。你看也不太能说就好。 系啊，咁啊，唔得嘅，但系佢可能都。 这个不是在吸盘。 是吧，这个再把它招募哈。 还有别的要说的吗？ 把你的水还打不着了。",
-      "scores": {
-        "fragment_score": {
-          "label": "语句破碎度评分",
-          "value": 40
-        },
-        "pause_score": {
-          "label": "停顿流畅度评分",
-          "value": 15
-        },
-        "total_coherence_score": {
-          "label": "综合语言连贯总分",
-          "value": 27.5
-        },
-        "level": {
-          "label": "连贯等级",
-          "value": "中度不连贯"
-        }
-      },
-      "metrics": {
-        "sentence_count": {
-          "label": "句子总数",
-          "value": 15
-        },
-        "total_chars": {
-          "label": "总字数",
-          "value": 113
-        },
-        "avg_sentence_chars": {
-          "label": "平均每句字数",
-          "value": 6.5
-        },
-        "speed_chars_per_sec": {
-          "label": "语速(字/秒)",
-          "value": 5650.0
-        },
-        "total_audio_duration": {
-          "label": "音频总时长(秒)",
-          "value": 37.21
-        },
-        "speak_duration": {
-          "label": "有效说话时长(秒)",
-          "value": 0.02
-        },
-        "avg_pause": {
-          "label": "平均句间停顿(秒)",
-          "value": 2.43
-        },
-        "long_pause_count": {
-          "label": "长停顿次数(≥3s)",
-          "value": 4
-        },
-        "pause_ratio": {
-          "label": "停顿占总时长比例(%)",
-          "value": 91.24
-        }
-      }
-    },
-    "similarity": 0.24973362684249878,
-    "success": true
-  },
-  {
-    "file_name": "1770337232236.wav",
-    "transcription": "雷哥，雷哥，他又玩自自自自自自自自自自自自自自自自自自自吗？ 这个拉拉拉哪个东西哈？嗯，这个就这个拉下来。嗯，呀，嗯，这个有什么哈？ 谢谢灯亮点亮。",
-    "analysis": {
-      "status": 1,
-      "msg": "分析成功",
-      "text": "雷哥，雷哥，他又玩自自自自自自自自自自自自自自自自自自自吗？ 这个拉拉拉哪个东西哈？嗯，这个就这个拉下来。嗯，呀，嗯，这个有什么哈？ 谢谢灯亮点亮。",
+      "text": "在楼上看,在楼上爬梯子他说在爬楼梯子他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?他说他听得懂吗?",
       "scores": {
         "fragment_score": {
           "label": "语句破碎度评分",
@@ -147,66 +80,66 @@
         },
         "pause_score": {
           "label": "停顿流畅度评分",
-          "value": 35
+          "value": 85
         },
         "total_coherence_score": {
           "label": "综合语言连贯总分",
-          "value": 27.5
+          "value": 52.5
         },
         "level": {
           "label": "连贯等级",
-          "value": "中度不连贯"
+          "value": "轻度不连贯"
         }
       },
       "metrics": {
         "sentence_count": {
           "label": "句子总数",
-          "value": 8
+          "value": 58
         },
         "total_chars": {
           "label": "总字数",
-          "value": 72
+          "value": 146
         },
         "avg_sentence_chars": {
           "label": "平均每句字数",
-          "value": 4.2
+          "value": 2.5
         },
         "speed_chars_per_sec": {
           "label": "语速(字/秒)",
-          "value": 7200.0
+          "value": 4.28
         },
         "total_audio_duration": {
           "label": "音频总时长(秒)",
-          "value": 12.07
+          "value": 44.92
         },
         "speak_duration": {
           "label": "有效说话时长(秒)",
-          "value": 0.01
+          "value": 34.14
         },
         "avg_pause": {
           "label": "平均句间停顿(秒)",
-          "value": 1.3
+          "value": 0.13
         },
         "long_pause_count": {
           "label": "长停顿次数(≥3s)",
-          "value": 1
+          "value": 0
         },
         "pause_ratio": {
           "label": "停顿占总时长比例(%)",
-          "value": 75.14
+          "value": 17.1
         }
       }
     },
-    "similarity": 0.17458882927894592,
+    "similarity": 0.21919749677181244,
     "success": true
   },
   {
-    "file_name": "1771920177240.wav",
-    "transcription": "水池里边的水，就是厨房洗碗的水池里边的水溢出来了。小男孩在拿饼干的时候，椅子歪倒，快要摔倒了。",
+    "file_name": "1770337232236.wav",
+    "transcription": "这个是什么这个是拿哪个东西这个就这个拿下来你看这个就是什么",
     "analysis": {
       "status": 1,
       "msg": "分析成功",
-      "text": "水池里边的水，就是厨房洗碗的水池里边的水溢出来了。小男孩在拿饼干的时候，椅子歪倒，快要摔倒了。",
+      "text": "这个是什么这个是拿哪个东西这个就这个拿下来你看这个就是什么",
       "scores": {
         "fragment_score": {
           "label": "语句破碎度评分",
@@ -228,27 +161,94 @@
       "metrics": {
         "sentence_count": {
           "label": "句子总数",
-          "value": 5
+          "value": 4
         },
         "total_chars": {
           "label": "总字数",
-          "value": 47
+          "value": 29
         },
         "avg_sentence_chars": {
           "label": "平均每句字数",
-          "value": 8.4
+          "value": 7.2
         },
         "speed_chars_per_sec": {
           "label": "语速(字/秒)",
-          "value": 4700.0
+          "value": 2.61
         },
         "total_audio_duration": {
           "label": "音频总时长(秒)",
-          "value": 1.17
+          "value": 11.64
         },
         "speak_duration": {
           "label": "有效说话时长(秒)",
-          "value": 0.01
+          "value": 11.1
+        },
+        "avg_pause": {
+          "label": "平均句间停顿(秒)",
+          "value": 0.18
+        },
+        "long_pause_count": {
+          "label": "长停顿次数(≥3s)",
+          "value": 0
+        },
+        "pause_ratio": {
+          "label": "停顿占总时长比例(%)",
+          "value": 4.64
+        }
+      }
+    },
+    "similarity": 0.18109329044818878,
+    "success": true
+  },
+  {
+    "file_name": "1771920177240.wav",
+    "transcription": "水池里边的水,就是厨房洗碗的水池里边的水溢出来了小男孩在拿饼干的时候椅子歪倒,快要摔倒了",
+    "analysis": {
+      "status": 1,
+      "msg": "分析成功",
+      "text": "水池里边的水,就是厨房洗碗的水池里边的水溢出来了小男孩在拿饼干的时候椅子歪倒,快要摔倒了",
+      "scores": {
+        "fragment_score": {
+          "label": "语句破碎度评分",
+          "value": 80
+        },
+        "pause_score": {
+          "label": "停顿流畅度评分",
+          "value": 85
+        },
+        "total_coherence_score": {
+          "label": "综合语言连贯总分",
+          "value": 82.5
+        },
+        "level": {
+          "label": "连贯等级",
+          "value": "语言连贯正常"
+        }
+      },
+      "metrics": {
+        "sentence_count": {
+          "label": "句子总数",
+          "value": 3
+        },
+        "total_chars": {
+          "label": "总字数",
+          "value": 44
+        },
+        "avg_sentence_chars": {
+          "label": "平均每句字数",
+          "value": 14.7
+        },
+        "speed_chars_per_sec": {
+          "label": "语速(字/秒)",
+          "value": 3.42
+        },
+        "total_audio_duration": {
+          "label": "音频总时长(秒)",
+          "value": 14.18
+        },
+        "speak_duration": {
+          "label": "有效说话时长(秒)",
+          "value": 12.88
         },
         "avg_pause": {
           "label": "平均句间停顿(秒)",
@@ -264,16 +264,16 @@
         }
       }
     },
-    "similarity": 0.6226316690444946,
+    "similarity": 0.6436647176742554,
     "success": true
   },
   {
     "file_name": "1773449008772.wav",
-    "transcription": "三号的这什么？ 这个就站在凳子下面，拿什么拿不应该。 这个 这个就是。 这个是什么？我不知道唉。 这个这个是拿东西，这个就是修带起来是吧。 这这一个。 不知道。",
+    "transcription": "三号车就是什么这个就站在凳子下面拿什么拿饼干这个这个就是这个是什么不知道这个是什么东西这个就是修带起来是吧这这个不知道",
     "analysis": {
       "status": 1,
       "msg": "分析成功",
-      "text": "三号的这什么？ 这个就站在凳子下面，拿什么拿不应该。 这个 这个就是。 这个是什么？我不知道唉。 这个这个是拿东西，这个就是修带起来是吧。 这这一个。 不知道。",
+      "text": "三号车就是什么这个就站在凳子下面拿什么拿饼干这个这个就是这个是什么不知道这个是什么东西这个就是修带起来是吧这这个不知道",
       "scores": {
         "fragment_score": {
           "label": "语句破碎度评分",
@@ -281,11 +281,11 @@
         },
         "pause_score": {
           "label": "停顿流畅度评分",
-          "value": 15
+          "value": 35
         },
         "total_coherence_score": {
           "label": "综合语言连贯总分",
-          "value": 27.5
+          "value": 37.5
         },
         "level": {
           "label": "连贯等级",
@@ -299,39 +299,39 @@
         },
         "total_chars": {
           "label": "总字数",
-          "value": 73
+          "value": 59
         },
         "avg_sentence_chars": {
           "label": "平均每句字数",
-          "value": 6.3
+          "value": 5.9
         },
         "speed_chars_per_sec": {
           "label": "语速(字/秒)",
-          "value": 62.93
+          "value": 3.34
         },
         "total_audio_duration": {
           "label": "音频总时长(秒)",
-          "value": 26.33
+          "value": 27.06
         },
         "speak_duration": {
           "label": "有效说话时长(秒)",
-          "value": 1.16
+          "value": 17.68
         },
         "avg_pause": {
           "label": "平均句间停顿(秒)",
-          "value": 2.77
+          "value": 1.04
         },
         "long_pause_count": {
           "label": "长停顿次数(≥3s)",
-          "value": 6
+          "value": 1
         },
         "pause_ratio": {
           "label": "停顿占总时长比例(%)",
-          "value": 94.61
+          "value": 34.66
         }
       }
     },
-    "similarity": 0.31357061862945557,
+    "similarity": 0.28109046816825867,
     "success": true
   }
 ]

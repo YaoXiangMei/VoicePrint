@@ -12,7 +12,8 @@ import numpy as np
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../src'))
 
 # 使用funasr转换器
-from funasr_wrapper.converter import convert_speech_to_text, convert_funasr_to_whisper_format
+from funasr_wrapper.converter import convert_speech_to_text
+from funasr_wrapper.format_converter import funasr_to_whisper_format
 from speech_processing.audio_analyzer import analyze_audio
 from speech_processing.text_to_vec import calculate_similarity
 from utils.output_formatter import format_output, print_analysis_result
@@ -42,7 +43,7 @@ def batch_test():
     print("开始批量测试...")
     
     # 获取record目录中的所有音频文件
-    record_dir = Path("recording/normal/")
+    record_dir = Path("recording/danger/")
     audio_files = list(record_dir.glob("*.wav"))
     
     if not audio_files:
@@ -62,7 +63,7 @@ def batch_test():
             funasr_result = convert_speech_to_text(str(audio_file))
             
             # 2. 将funasr结果转换为whisper格式，以便使用现有的analyze_audio方法
-            whisper_format_result = convert_funasr_to_whisper_format(funasr_result)
+            whisper_format_result = funasr_to_whisper_format(funasr_result)
             
             # 3. 音频连贯性分析
             print("  - 正在进行音频连贯性分析...")
@@ -128,7 +129,7 @@ def batch_test():
             print("-" * 40)
     
     # 保存结果到JSON文件（先转换numpy类型）
-    output_file = "test/batch_test_results_normal.json"
+    output_file = "test/batch_test_results_danger.json"
     converted_results = convert_numpy_types(results)
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(converted_results, f, ensure_ascii=False, indent=2)
