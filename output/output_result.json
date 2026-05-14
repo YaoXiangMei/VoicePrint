@@ -1,0 +1,998 @@
+{
+  "text": "这是。 一个在厨房的场景，场景里面有妈妈和两个孩子，妈妈正在水池边。 连神情很悲伤的在擦拭盘子，水池里边的水都流出来了，他也没有留意到。 后面的两个孩子，其中男孩站在一个要倒的凳子上拿。 订单里面的订单和 凳子马上就要倒了，妹妹很担心地看着他。 这是一个很悲伤的场景。",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.78,
+      "end": 0.78,
+      "text": "这是",
+      "tokens": [
+        0,
+        1
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "这",
+          "start": 0.78,
+          "end": 0.78,
+          "probability": 0.995
+        },
+        {
+          "word": "是",
+          "start": 0.78,
+          "end": 0.78,
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.53,
+      "end": 2.53,
+      "text": "一个在厨房的场景",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "一",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 1.0
+        },
+        {
+          "word": "个",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.998
+        },
+        {
+          "word": "在",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.999
+        },
+        {
+          "word": "厨",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.998
+        },
+        {
+          "word": "房",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 1.0
+        },
+        {
+          "word": "的",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.999
+        },
+        {
+          "word": "场",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.999
+        },
+        {
+          "word": "景",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.53,
+      "end": 2.54,
+      "text": "场景里面有妈妈和两个孩子",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "场",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.999
+        },
+        {
+          "word": "景",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.999
+        },
+        {
+          "word": "里",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 1.0
+        },
+        {
+          "word": "面",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.882
+        },
+        {
+          "word": "有",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.997
+        },
+        {
+          "word": "妈",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.999
+        },
+        {
+          "word": "妈",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.998
+        },
+        {
+          "word": "和",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.995
+        },
+        {
+          "word": "两",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.998
+        },
+        {
+          "word": "个",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 0.999
+        },
+        {
+          "word": "孩",
+          "start": 2.53,
+          "end": 2.53,
+          "probability": 1.0
+        },
+        {
+          "word": "子",
+          "start": 2.54,
+          "end": 2.54,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 2.54,
+      "end": 2.54,
+      "text": "妈妈正在水池边",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "妈",
+          "start": 2.54,
+          "end": 2.54,
+          "probability": 0.998
+        },
+        {
+          "word": "妈",
+          "start": 2.54,
+          "end": 2.54,
+          "probability": 0.998
+        },
+        {
+          "word": "正",
+          "start": 2.54,
+          "end": 2.54,
+          "probability": 0.054
+        },
+        {
+          "word": "在",
+          "start": 2.54,
+          "end": 2.54,
+          "probability": 0.984
+        },
+        {
+          "word": "水",
+          "start": 2.54,
+          "end": 2.54,
+          "probability": 0.922
+        },
+        {
+          "word": "池",
+          "start": 2.54,
+          "end": 2.54,
+          "probability": 0.013
+        },
+        {
+          "word": "边",
+          "start": 2.54,
+          "end": 2.54,
+          "probability": 0.015
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 10.66,
+      "end": 10.66,
+      "text": "连神情很悲伤的在擦拭盘子",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "连",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.201
+        },
+        {
+          "word": "神",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.971
+        },
+        {
+          "word": "情",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.997
+        },
+        {
+          "word": "很",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.998
+        },
+        {
+          "word": "悲",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.999
+        },
+        {
+          "word": "伤",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.995
+        },
+        {
+          "word": "的",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.88
+        },
+        {
+          "word": "在",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.989
+        },
+        {
+          "word": "擦",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.993
+        },
+        {
+          "word": "拭",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.195
+        },
+        {
+          "word": "盘",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.998
+        },
+        {
+          "word": "子",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.66,
+      "end": 10.67,
+      "text": "水池里边的水都流出来了",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "水",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.999
+        },
+        {
+          "word": "池",
+          "start": 10.66,
+          "end": 10.66,
+          "probability": 0.98
+        },
+        {
+          "word": "里",
+          "start": 10.66,
+          "end": 10.67,
+          "probability": 0.996
+        },
+        {
+          "word": "边",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.986
+        },
+        {
+          "word": "的",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.998
+        },
+        {
+          "word": "水",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 1.0
+        },
+        {
+          "word": "都",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.999
+        },
+        {
+          "word": "流",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.995
+        },
+        {
+          "word": "出",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 1.0
+        },
+        {
+          "word": "来",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.999
+        },
+        {
+          "word": "了",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 10.67,
+      "end": 10.67,
+      "text": "他也没有留意到",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "他",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.865
+        },
+        {
+          "word": "也",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.995
+        },
+        {
+          "word": "没",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 1.0
+        },
+        {
+          "word": "有",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.999
+        },
+        {
+          "word": "留",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.999
+        },
+        {
+          "word": "意",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.996
+        },
+        {
+          "word": "到",
+          "start": 10.67,
+          "end": 10.67,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 18.47,
+      "end": 18.47,
+      "text": "后面的两个孩子",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "后",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 1.0
+        },
+        {
+          "word": "面",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.997
+        },
+        {
+          "word": "的",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.982
+        },
+        {
+          "word": "两",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.999
+        },
+        {
+          "word": "个",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.999
+        },
+        {
+          "word": "孩",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 1.0
+        },
+        {
+          "word": "子",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 18.47,
+      "end": 18.47,
+      "text": "其中男孩站在一个要倒的凳子上拿",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "其",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.998
+        },
+        {
+          "word": "中",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.998
+        },
+        {
+          "word": "男",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.999
+        },
+        {
+          "word": "孩",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.999
+        },
+        {
+          "word": "站",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.992
+        },
+        {
+          "word": "在",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.998
+        },
+        {
+          "word": "一",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.999
+        },
+        {
+          "word": "个",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 1.0
+        },
+        {
+          "word": "要",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.988
+        },
+        {
+          "word": "倒",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.981
+        },
+        {
+          "word": "的",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.998
+        },
+        {
+          "word": "凳",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.847
+        },
+        {
+          "word": "子",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.588
+        },
+        {
+          "word": "上",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.997
+        },
+        {
+          "word": "拿",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.913
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 23.51,
+      "end": 27.19,
+      "text": "订单里面的订单和凳子马上就要倒了",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "订",
+          "start": 23.51,
+          "end": 23.51,
+          "probability": 0.014
+        },
+        {
+          "word": "单",
+          "start": 23.51,
+          "end": 23.51,
+          "probability": 0.956
+        },
+        {
+          "word": "里",
+          "start": 23.51,
+          "end": 23.51,
+          "probability": 0.993
+        },
+        {
+          "word": "面",
+          "start": 23.51,
+          "end": 23.51,
+          "probability": 0.662
+        },
+        {
+          "word": "的",
+          "start": 23.51,
+          "end": 23.51,
+          "probability": 0.992
+        },
+        {
+          "word": "订",
+          "start": 23.51,
+          "end": 23.51,
+          "probability": 0.004
+        },
+        {
+          "word": "单",
+          "start": 23.51,
+          "end": 23.51,
+          "probability": 0.934
+        },
+        {
+          "word": "和",
+          "start": 23.51,
+          "end": 23.51,
+          "probability": 0.98
+        },
+        {
+          "word": "凳",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.976
+        },
+        {
+          "word": "子",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.999
+        },
+        {
+          "word": "马",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.995
+        },
+        {
+          "word": "上",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 1.0
+        },
+        {
+          "word": "就",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.999
+        },
+        {
+          "word": "要",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.997
+        },
+        {
+          "word": "倒",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.999
+        },
+        {
+          "word": "了",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 27.19,
+      "end": 27.19,
+      "text": "妹妹很担心地看着他",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "妹",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.996
+        },
+        {
+          "word": "妹",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.986
+        },
+        {
+          "word": "很",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.995
+        },
+        {
+          "word": "担",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.998
+        },
+        {
+          "word": "心",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 1.0
+        },
+        {
+          "word": "地",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.031
+        },
+        {
+          "word": "看",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.999
+        },
+        {
+          "word": "着",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.989
+        },
+        {
+          "word": "他",
+          "start": 27.19,
+          "end": 27.19,
+          "probability": 0.731
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 30.7,
+      "end": 30.7,
+      "text": "这是一个很悲伤的场景",
+      "tokens": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.12659429331294825,
+      "compression_ratio": 1.4195121951219511,
+      "no_speech_prob": 0.312889039516449,
+      "words": [
+        {
+          "word": "这",
+          "start": 30.7,
+          "end": 30.7,
+          "probability": 0.999
+        },
+        {
+          "word": "是",
+          "start": 30.7,
+          "end": 30.7,
+          "probability": 0.999
+        },
+        {
+          "word": "一",
+          "start": 30.7,
+          "end": 30.7,
+          "probability": 1.0
+        },
+        {
+          "word": "个",
+          "start": 30.7,
+          "end": 30.7,
+          "probability": 0.996
+        },
+        {
+          "word": "很",
+          "start": 30.7,
+          "end": 30.7,
+          "probability": 0.998
+        },
+        {
+          "word": "悲",
+          "start": 30.7,
+          "end": 30.7,
+          "probability": 0.996
+        },
+        {
+          "word": "伤",
+          "start": 30.7,
+          "end": 30.7,
+          "probability": 0.959
+        },
+        {
+          "word": "的",
+          "start": 30.7,
+          "end": 30.7,
+          "probability": 1.0
+        },
+        {
+          "word": "场",
+          "start": 30.7,
+          "end": 30.7,
+          "probability": 0.999
+        },
+        {
+          "word": "景",
+          "start": 30.7,
+          "end": 30.7,
+          "probability": 0.997
+        }
+      ]
+    }
+  ],
+  "language": "zh"
+}

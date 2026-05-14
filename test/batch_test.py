@@ -11,7 +11,8 @@ import numpy as np
 # 添加src目录到Python路径
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../src'))
 
-from whisper_wrapper.converter import convert_speech_to_text
+# 使用funasr转换器
+from funasr_wrapper.converter import convert_speech_to_text, convert_funasr_to_whisper_format
 from speech_processing.audio_analyzer import analyze_audio
 from speech_processing.text_to_vec import calculate_similarity
 from utils.output_formatter import format_output, print_analysis_result
@@ -56,22 +57,25 @@ def batch_test():
         print(f"\n处理第 {i}/{len(audio_files)} 个文件: {audio_file.name}")
         
         try:
-            # 1. 语音转文字
+            # 1. 语音转文字 (使用funasr)
             print("  - 正在进行语音转文字...")
-            transcription_result = convert_speech_to_text(str(audio_file))
+            funasr_result = convert_speech_to_text(str(audio_file))
             
-            # 2. 音频连贯性分析
+            # 2. 将funasr结果转换为whisper格式，以便使用现有的analyze_audio方法
+            whisper_format_result = convert_funasr_to_whisper_format(funasr_result)
+            
+            # 3. 音频连贯性分析
             print("  - 正在进行音频连贯性分析...")
-            analysis_result = analyze_audio(transcription_result)
+            analysis_result = analyze_audio(whisper_format_result)
             
-            # 3. 计算文本相似度
+            # 4. 计算文本相似度
             print("  - 正在计算文本相似度...")
-            similarity = calculate_similarity(transcription_result['text'])
+            similarity = calculate_similarity(whisper_format_result['text'])
             
-            # 4. 收集结果
+            # 5. 收集结果
             result = {
                 'file_name': audio_file.name,
-                'transcription': transcription_result['text'],
+                'transcription': whisper_format_result['text'],
                 'analysis': analysis_result,
                 'similarity': similarity,
                 'success': True

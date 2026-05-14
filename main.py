@@ -5,14 +5,17 @@
 import json
 import sys
 import os
-
+import model
 # 添加src目录到Python路径
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
+
 from whisper_wrapper.converter import convert_speech_to_text
+from funasr_wrapper.converter import convert_speech_to_text as funasr_convert_speech_to_text
 from speech_processing.audio_analyzer import analyze_audio
 from utils.output_formatter import print_analysis_result, format_output
 from speech_processing.text_to_vec import calculate_similarity, TextSimilarityCalculator
+from funasr_wrapper.format_converter import funasr_to_whisper_format
 
 
 def main():
@@ -24,8 +27,15 @@ def main():
     try:
         # 直接从JSON文件加载结果（用于演示）
         # result = json.load(open("recording/normal/1747281149103.json", "r", encoding="utf-8"))
-        result = convert_speech_to_text(audio_file)
+        # result = convert_speech_to_text(audio_file)
+        result = funasr_convert_speech_to_text(audio_file)
+        # 转换为whisper格式
+        result = funasr_to_whisper_format(result)
         
+        # 保存结果到JSON文件
+        with open("output/output_result.json", "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+        print("结果已保存到 output/output_result.json")
         # 分析音频
         # analysis_result = analyze_audio(result)
         

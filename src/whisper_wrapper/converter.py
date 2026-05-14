@@ -93,6 +93,9 @@ def convert_speech_to_text(audio_path: str, model_size: str = "medium", **kwargs
     return converter.transcribe(audio_path, **kwargs)
 
 
+
+
+
 # 使用示例
 if __name__ == "__main__":
     # 示例用法
